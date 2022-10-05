@@ -97,9 +97,9 @@
   // ensure links on API page are valid
   "api": {
     "blockindex": 1,
-    "blockhash": "5a00ca5a5964a775bb48d2a9ee76f4e6598711d3a24aa72d82a83227ec59be44",
-    "txhash": "58059b0ab99a99ba09601829f38b75e6dbabaee3515e1fb873eb17bba43cd16d",
-    "address": "EXRyTPosb9sQJEKPpG2b4nT3p81dipvkYD"
+    "blockhash": "8dbe7ccd734b934d39039ef4a582e0c1e7f6bc126327ae6544fb290854f6a1b3",
+    "txhash": "4e1d45d752780bf60e5b81839c2c9c6ba197d2f067a168b4bdf290985c3251de",
+    "address": "EHJzCTSpC6i52Q5c5Xjw2cSSRKaMpQmcKm"
   },
 
   // market settings
@@ -137,8 +137,8 @@
 
 
   //genesis
-  "genesis_tx": "c5bb2510bf511017f88b91e6efcf67c03f48ee338a4156f42fe65ac2f85cc2d1",
-  "genesis_block": "61da19fd8ba7fc9d98e884636c25f3a29bccff1681742c31427f86a9f86ff6a3",
+  "genesis_tx": "7bafe82848318188077b8380146e2f7000a0ce0fc9280c843c3fa99a04f03df1",
+  "genesis_block": "82098278001487d137d8f8226bc6d3da4566f1066fc3b92e441727b6a0f3bc4e",
 
   //heavy (enable/disable additional heavy features)
   "heavy": false,
